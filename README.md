@@ -1,7 +1,7 @@
 About cube_browser
 ==================
 
-Home: http://scitools.org.uk/cube_browser
+Home: https://github.com/SciTools/cube_browser
 
 Package license: BSD 3-clause
 
